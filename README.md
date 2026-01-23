@@ -28,12 +28,14 @@ The goal of this analysis was to determine how product categories and discountin
 ### 📂 Project Structure
 ```text
 ├── dashboard/
-│   └── Dashboard.pdf                #static view of Power BI Dashboard
-│   └── superstore_v1.pbix           #Interactive dasboard
+│   └── Dashboard Preview                       #static view of Power BI Dashboard
+│         └──Screenshot 2026-01-23 213232       #Sales($)
+│         └──Screenshot 2026-01-23 213245       #Sales(volume)
+│   └── superstore_v1.pbix                      #Interactive dasboard
 ├──  Data/
-│   └── Superstore_sales_data.csv    # Raw dataset (Latin-1 encoded)
+│   └── Superstore_sales_data.csv               # Raw dataset (Latin-1 encoded)
 ├── Notebook/
-│   └── Sales.ipynb                  # Python EDA & Visualization               
-├── requirements.txt                 # Dependencies (pandas, seaborn, etc.)
-└── README.md                        # Project documentation
+│   └── Sales.ipynb                             # Python EDA & Visualization               
+├── requirements.txt                            # Dependencies (pandas, seaborn, etc.)
+└── README.md                                   # Project documentation
 

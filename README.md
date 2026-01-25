@@ -1,7 +1,7 @@
 # Superstore-Sales-and-Profitability-analysis
 
-![Power BI Dashboard Preview](dashboard/Dashboard%20Preview/Screenshot%202026-01-23%20213232.png)
-![Power BI Dashboard Preview](dashboard/Dashboard%20Preview/Screenshot%202026-01-23%20213245.png)
+![Power BI Dashboard Preview](Dashboard/dashboard%20Preview/Screenshot%202026-01-23%20213232.png)
+![Power BI Dashboard Preview](Dashboard/dashboard%20Preview/Screenshot%202026-01-23%20213245.png)
 
 An end-to-end data analysis project using **Python (Pandas/Seaborn)** for Exploratory Data Analysis (EDA) and **Power BI** for interactive business intelligence. This project identifies key drivers of "Capital" efficiency and the impact of discount strategies on the bottom line.
 

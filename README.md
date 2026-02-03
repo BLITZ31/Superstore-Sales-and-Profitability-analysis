@@ -7,12 +7,12 @@ An end-to-end data analysis project using **Python (Pandas/Seaborn)** for Explor
 
 ---
 
-### 📊 Executive Summary
+### Executive Summary
 The goal of this analysis was to determine how product categories and discounting strategies affect overall profitability. By analyzing ~10,000 rows of retail data, I identified critical **"Loss Leaders"** and high-performing **"Signature Products"** to guide inventory and pricing decisions.
 
 ---
 
-### 💡 Key Business Insights
+### Key Business Insights
 * **The Discount Trap**: Analysis proves a strong negative correlation between high discounts and profit. A **10% discount** was identified as the "optimal" threshold; anything beyond this leads to a sharp decline in median profit.
 * **The "Table" Problem**: Despite generating high sales, the **Tables** sub-category is the biggest source of loss for the business.
 * **Volume vs. Value**: While **Technology** is the profit engine, **Office Supplies** drive the highest volume (60.3% of total quantity), with **Binders** identified as a "Signature Product" due to high volume and strong capital contribution.
@@ -20,7 +20,7 @@ The goal of this analysis was to determine how product categories and discountin
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Python 3.14**: Data cleaning and initial EDA.
 * **Pandas**: Data manipulation and handling encoding issues (ISO-8859-1/Latin-1).
 * **Seaborn/Matplotlib**: Correlation heatmaps and statistical visualizations.
@@ -28,7 +28,7 @@ The goal of this analysis was to determine how product categories and discountin
 
 ---
 
-### 📂 Project Structure
+### Project Structure
 ```text
 ├── dashboard/
 │   └── Dashboard Preview                       #static view of Power BI Dashboard

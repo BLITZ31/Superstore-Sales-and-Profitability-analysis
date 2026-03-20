@@ -32,8 +32,8 @@ The goal of this analysis was to determine how product categories and discountin
 ```text
 ├── dashboard/
 │   └── Dashboard Preview                       #static view of Power BI Dashboard
-│         └──Screenshot 2026-01-23 213232       #Sales($)
-│         └──Screenshot 2026-01-23 213245       #Sales(volume)
+│         └──page_1       #Sales($)
+│         └──page_2       #Sales(volume)
 │   └── superstore_v1.pbix                      #Interactive dasboard
 ├──  Data/
 │   └── Superstore_sales_data.csv               # Raw dataset (Latin-1 encoded)
